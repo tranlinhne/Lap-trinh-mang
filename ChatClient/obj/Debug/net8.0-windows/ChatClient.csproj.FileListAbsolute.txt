@@ -1,0 +1,32 @@
+D:\NĂM 3 KÌ 1\LẬP TRÌNH MẠNG\Đồ án\LanChatApp\ChatClient\bin\Debug\net8.0-windows\ChatClient.exe
+D:\NĂM 3 KÌ 1\LẬP TRÌNH MẠNG\Đồ án\LanChatApp\ChatClient\bin\Debug\net8.0-windows\ChatClient.deps.json
+D:\NĂM 3 KÌ 1\LẬP TRÌNH MẠNG\Đồ án\LanChatApp\ChatClient\bin\Debug\net8.0-windows\ChatClient.runtimeconfig.json
+D:\NĂM 3 KÌ 1\LẬP TRÌNH MẠNG\Đồ án\LanChatApp\ChatClient\bin\Debug\net8.0-windows\ChatClient.dll
+D:\NĂM 3 KÌ 1\LẬP TRÌNH MẠNG\Đồ án\LanChatApp\ChatClient\bin\Debug\net8.0-windows\ChatClient.pdb
+D:\NĂM 3 KÌ 1\LẬP TRÌNH MẠNG\Đồ án\LanChatApp\ChatClient\obj\Debug\net8.0-windows\ChatClient.Form1.resources
+D:\NĂM 3 KÌ 1\LẬP TRÌNH MẠNG\Đồ án\LanChatApp\ChatClient\obj\Debug\net8.0-windows\ChatClient.csproj.GenerateResource.cache
+D:\NĂM 3 KÌ 1\LẬP TRÌNH MẠNG\Đồ án\LanChatApp\ChatClient\obj\Debug\net8.0-windows\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\NĂM 3 KÌ 1\LẬP TRÌNH MẠNG\Đồ án\LanChatApp\ChatClient\obj\Debug\net8.0-windows\ChatClient.AssemblyInfoInputs.cache
+D:\NĂM 3 KÌ 1\LẬP TRÌNH MẠNG\Đồ án\LanChatApp\ChatClient\obj\Debug\net8.0-windows\ChatClient.AssemblyInfo.cs
+D:\NĂM 3 KÌ 1\LẬP TRÌNH MẠNG\Đồ án\LanChatApp\ChatClient\obj\Debug\net8.0-windows\ChatClient.csproj.CoreCompileInputs.cache
+D:\NĂM 3 KÌ 1\LẬP TRÌNH MẠNG\Đồ án\LanChatApp\ChatClient\obj\Debug\net8.0-windows\ChatClient.dll
+D:\NĂM 3 KÌ 1\LẬP TRÌNH MẠNG\Đồ án\LanChatApp\ChatClient\obj\Debug\net8.0-windows\refint\ChatClient.dll
+D:\NĂM 3 KÌ 1\LẬP TRÌNH MẠNG\Đồ án\LanChatApp\ChatClient\obj\Debug\net8.0-windows\ChatClient.pdb
+D:\NĂM 3 KÌ 1\LẬP TRÌNH MẠNG\Đồ án\LanChatApp\ChatClient\obj\Debug\net8.0-windows\ChatClient.genruntimeconfig.cache
+D:\NĂM 3 KÌ 1\LẬP TRÌNH MẠNG\Đồ án\LanChatApp\ChatClient\obj\Debug\net8.0-windows\ref\ChatClient.dll
+C:\Users\NAMLE\Downloads\New folder\LanChatApp\ChatClient\bin\Debug\net8.0-windows\ChatClient.exe
+C:\Users\NAMLE\Downloads\New folder\LanChatApp\ChatClient\bin\Debug\net8.0-windows\ChatClient.deps.json
+C:\Users\NAMLE\Downloads\New folder\LanChatApp\ChatClient\bin\Debug\net8.0-windows\ChatClient.runtimeconfig.json
+C:\Users\NAMLE\Downloads\New folder\LanChatApp\ChatClient\bin\Debug\net8.0-windows\ChatClient.dll
+C:\Users\NAMLE\Downloads\New folder\LanChatApp\ChatClient\bin\Debug\net8.0-windows\ChatClient.pdb
+C:\Users\NAMLE\Downloads\New folder\LanChatApp\ChatClient\obj\Debug\net8.0-windows\ChatClient.Form1.resources
+C:\Users\NAMLE\Downloads\New folder\LanChatApp\ChatClient\obj\Debug\net8.0-windows\ChatClient.csproj.GenerateResource.cache
+C:\Users\NAMLE\Downloads\New folder\LanChatApp\ChatClient\obj\Debug\net8.0-windows\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAMLE\Downloads\New folder\LanChatApp\ChatClient\obj\Debug\net8.0-windows\ChatClient.AssemblyInfoInputs.cache
+C:\Users\NAMLE\Downloads\New folder\LanChatApp\ChatClient\obj\Debug\net8.0-windows\ChatClient.AssemblyInfo.cs
+C:\Users\NAMLE\Downloads\New folder\LanChatApp\ChatClient\obj\Debug\net8.0-windows\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\NAMLE\Downloads\New folder\LanChatApp\ChatClient\obj\Debug\net8.0-windows\ChatClient.dll
+C:\Users\NAMLE\Downloads\New folder\LanChatApp\ChatClient\obj\Debug\net8.0-windows\refint\ChatClient.dll
+C:\Users\NAMLE\Downloads\New folder\LanChatApp\ChatClient\obj\Debug\net8.0-windows\ChatClient.pdb
+C:\Users\NAMLE\Downloads\New folder\LanChatApp\ChatClient\obj\Debug\net8.0-windows\ChatClient.genruntimeconfig.cache
+C:\Users\NAMLE\Downloads\New folder\LanChatApp\ChatClient\obj\Debug\net8.0-windows\ref\ChatClient.dll

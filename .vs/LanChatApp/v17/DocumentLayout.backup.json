@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NAMLE\\Downloads\\New folder\\LanChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4289FF-AF0F-4074-B07E-1B360EC456FF}|ChatClient\\ChatClient.csproj|c:\\users\\namle\\downloads\\new folder\\lanchatapp\\chatclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4289FF-AF0F-4074-B07E-1B360EC456FF}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4289FF-AF0F-4074-B07E-1B360EC456FF}|ChatClient\\ChatClient.csproj|c:\\users\\namle\\downloads\\new folder\\lanchatapp\\chatclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4289FF-AF0F-4074-B07E-1B360EC456FF}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4289FF-AF0F-4074-B07E-1B360EC456FF}|ChatClient\\ChatClient.csproj|c:\\users\\namle\\downloads\\new folder\\lanchatapp\\chatclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B4289FF-AF0F-4074-B07E-1B360EC456FF}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1278CF-D655-479E-9CA6-4C96420CA2BD}|ChatServer\\ChatServer.csproj|c:\\users\\namle\\downloads\\new folder\\lanchatapp\\chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1278CF-D655-479E-9CA6-4C96420CA2BD}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NAMLE\\Downloads\\New folder\\LanChatApp\\ChatClient\\Program.cs",
+              "RelativeDocumentMoniker": "ChatClient\\Program.cs",
+              "ToolTip": "C:\\Users\\NAMLE\\Downloads\\New folder\\LanChatApp\\ChatClient\\Program.cs",
+              "RelativeToolTip": "ChatClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:24:41.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\NAMLE\\Downloads\\New folder\\LanChatApp\\ChatClient\\Form1.cs",
+              "RelativeDocumentMoniker": "ChatClient\\Form1.cs",
+              "ToolTip": "C:\\Users\\NAMLE\\Downloads\\New folder\\LanChatApp\\ChatClient\\Form1.cs",
+              "RelativeToolTip": "ChatClient\\Form1.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAiwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:23:17.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NAMLE\\Downloads\\New folder\\LanChatApp\\ChatClient\\Form1.cs",
+              "RelativeDocumentMoniker": "ChatClient\\Form1.cs",
+              "ToolTip": "C:\\Users\\NAMLE\\Downloads\\New folder\\LanChatApp\\ChatClient\\Form1.cs [Design]",
+              "RelativeToolTip": "ChatClient\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:23:14.614Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NAMLE\\Downloads\\New folder\\LanChatApp\\ChatServer\\Program.cs",
+              "RelativeDocumentMoniker": "ChatServer\\Program.cs",
+              "ToolTip": "C:\\Users\\NAMLE\\Downloads\\New folder\\LanChatApp\\ChatServer\\Program.cs",
+              "RelativeToolTip": "ChatServer\\Program.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:22:25.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
